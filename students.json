@@ -1,1 +1,59 @@
-[]
+
+[
+    {
+        "roll": "101",
+        "name": "Aman Kumar Singh",
+        "course": "MCA",
+        "sem": "1",
+        "cgpa": 8.5
+    },
+    {
+        "roll": "102",
+        "name": "Riya Sharma",
+        "course": "MCA",
+        "sem": "1",
+        "cgpa": 9.1
+    },
+    {
+        "roll": "103",
+        "name": "Rohan Verma",
+        "course": "BCA",
+        "sem": "3",
+        "cgpa": 7.8
+    },
+    {
+        "roll": "104",
+        "name": "Priya Gupta",
+        "course": "MCA",
+        "sem": "1",
+        "cgpa": 8.9
+    },
+    {
+        "roll": "105",
+        "name": "Rahul Kumar",
+        "course": "BCA",
+        "sem": "3",
+        "cgpa": 7.5
+    },
+    {
+        "roll": "106",
+        "name": "Neha Singh",
+        "course": "MCA",
+        "sem": "1",
+        "cgpa": 9.3
+    },
+    {
+        "roll": "107",
+        "name": "Vikas Sharma",
+        "course": "BCA",
+        "sem": "3",
+        "cgpa": 8.2
+    },
+    {
+        "roll": "108",
+        "name": "Anjali Verma",
+        "course": "MCA",
+        "sem": "1",
+        "cgpa": 8.7
+    }
+]
